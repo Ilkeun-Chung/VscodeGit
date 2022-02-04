@@ -1,2 +1,2 @@
- & C:/Users/ilkeun/AppData/Local/Programs/Python/Python310/python.exe  d:/GoogleDrive/Notepad/Jupyter/getVm.py
-  & C:/Users/ilkeun/AppData/Local/Programs/Python/Python310/python.exe  d:/GoogleDrive/Notepad/Jupyter/getWorkRequest.py
+& C:/Users/ilkeun/AppData/Local/Programs/Python/Python310/python.exe  d:/GoogleDrive/Notepad/Git/getVm.py
+& C:/Users/ilkeun/AppData/Local/Programs/Python/Python310/python.exe  d:/GoogleDrive/Notepad/Git/getWorkRequest.py

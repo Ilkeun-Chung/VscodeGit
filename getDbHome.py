@@ -32,4 +32,4 @@ response = requests.get(endpoint, auth=auth)
 #pprint.pprint(json.loads(response.text))
 
 for y in json.loads(response.text):
-    print("{:<35} {:<20} {:<50} {:<10}".format(y['displayName'],y['dbVersion'], y['dbHomeLocation'], y['lifecycleState']))
+    print("{:<35} {:<20} {:<45} {:<10}".format(y['displayName'],y['dbVersion'], y['dbHomeLocation'], y['lifecycleState']))
