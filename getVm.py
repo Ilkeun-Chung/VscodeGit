@@ -31,6 +31,6 @@ for x in allvm:
 
     y=json.loads(response.text)
     #pprint.pprint(json.loads(response.text))
-    print("{:<30} {:<10} {:<5} {:<20}".format(y["displayName"], ": CPU -->",  y["cpusEnabled"], y["lifecycleState"]))
+    print("{:<31} {:<10} {:<5} {:<20}".format(y["displayName"], ": CPU -->",  y["cpusEnabled"], y["lifecycleState"]))
 
 
